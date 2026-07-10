@@ -15,6 +15,19 @@ This project is an interactive Excel Sales Dashboard created using Microsoft Exc
 - ## Dashboard Preview
 
 ![Excel Sales Dashboard](dashboards.png)
+## Dashboard Preview
+
+### Overall Dashboard
+![Overall Dashboard](dashboards.png)
+
+### Sales Dashboard
+![Sales Dashboard](dashboard-sales.png)
+
+### Customer Dashboard
+![Customer Dashboard](dashboard-customers.png)
+
+### Profit Dashboard
+![Profit Dashboard](dashboard-profit.png)
 
 ## Tools Used
 - Microsoft Excel
