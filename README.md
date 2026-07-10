@@ -12,6 +12,10 @@ This project is an interactive Excel Sales Dashboard created using Microsoft Exc
 - Customer Analysis
 - Product Analysis
 
+- ## Dashboard Preview
+
+![Excel Sales Dashboard](dashboards.png)
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
