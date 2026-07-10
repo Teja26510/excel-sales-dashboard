@@ -26,6 +26,13 @@ This project is an interactive Excel Sales Dashboard created using Microsoft Exc
 ### Profit Dashboard
 ![Profit Dashboard](profit%20on%20items.png)
 
+## Key Insights
+•⁠  ⁠Top-performing products
+•⁠  ⁠Customer purchasing trends
+•⁠  ⁠Monthly sales analysis
+•⁠  ⁠Profit analysis
+•⁠  ⁠Regional performance
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
